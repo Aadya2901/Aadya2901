@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadya2901
 - 🌱 I’m currently learning C and C++
-- 📫 www.linkedin.com/in/aadya-patel-54ab62292
+- 📫 www.linkedin.com/in/aadya-patel-15
 - 😄 she/her
 
 <!---
