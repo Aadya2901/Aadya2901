@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aadya2901
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning web development
 - 📫 www.linkedin.com/in/aadya-patel15
 - 😄 she/her
 
