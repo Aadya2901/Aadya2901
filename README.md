@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadya2901
-- 🌱 I’m currently learning web development
-- 📫 www.linkedin.com/in/aadya-patel15
+- 🌱 I’m currently learning web development and dsa in java 
+- 📫 www.linkedin.com/in/aadya2901
 - 😄 she/her
 
 <!---
