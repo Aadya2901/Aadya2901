@@ -1,41 +1,35 @@
 # Hi, I’m Aadya! ✨  
 💻 Code with Impact <br> 🌱 Constant Learner <br> 🚀 Hackathon Enthusiast  
 
----
 
 ### 🔭 I’m currently working on  
 - **Ma-Eternal** 🤱 — a maternal health web app for awareness & resources. <br>  
 - **Solus** 🌸 — a mental health app (“your calm in the chaos”).  
 
----
 
-### 👯 I’m looking to collaborate on  
+### 👥 I’m looking to collaborate on  
 - Tech projects at the intersection of **health, environment, and social good**. <br>  
 - **Frontend development** (React / Next.js) and **DSA practice in Java**.  
 
----
 
 ### 🤝 I’m looking for help with  
 - Improving **UI/UX accessibility** for health-tech apps. <br>  
 - Scaling prototypes into **full-stack deployable apps**.  
 
----
 
 ### 🌱 I’m currently learning  
 - **Web Development (MERN stack)** <br>  
 - **Data Structures & Algorithms in Java**  
 
----
 
 ### 💬 Ask me about  
 - Hackathons (I’ve built **4 hackathon prototypes** already 🚀). <br>  
 - My workflow for turning a **messy idea into a clean UI**.  
 
----
 
 ### ⚡ Fun fact  
 - I do **108 Surya Namaskars at 4 AM** 🌅 before college. <br>  
-- 🎶 Big BTS fan (*bias?* 👀 → THE Kim Taehyung ofc <3) <br>  
+- 🎶 Big BTS fan (*bias?* 👀 → THE Kim Taehyung ofc <3)  
    *p.s. don’t ask me my favorite song, I’ll rant for 06:13 hours straight… iykyk* <br>  
 - 🎨 Love painting & sketching when I’m not coding. <br>  
 - 🍜 Anime binge-watcher (Hyouka is my top favorite, Gakuen Babysitters is my comfort anime). <br>  
@@ -60,11 +54,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aadya2901&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Aadya2901&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
