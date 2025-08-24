@@ -1,5 +1,48 @@
-# 💫 About Me:
-👋 Hi, I’m Aadya (@Aadya2901)<br><br>💻 Code with Impact | 🌱 Constant Learner | 🚀 Hackathon Enthusiast<br><br>🔭 I’m currently working on<br><br>Ma-Eternal 🤱 — a maternal health web app for awareness & resources.<br><br>Solus 🌸 — a mental health app (“your calm in the chaos”).<br><br><br>👯 I’m looking to collaborate on<br><br>Tech projects at the intersection of health, environment, and social good.<br><br>Frontend development (React / Next.js) and DSA practice in Java.<br><br>🤝 I’m looking for help with<br><br>Improving UI/UX accessibility for health-tech apps.<br><br>Scaling prototypes into full-stack deployable apps.<br><br>🌱 I’m currently learning<br><br>Web Development (MERN stack basics).<br><br>Data Structures & Algorithms in Java (Apna College Sigma DSA).<br><br>💬 Ask me about<br><br>Hackathons (I’ve built 4 hackathon prototypes already 🚀).<br><br>My workflow for turning a messy idea into a clean, working UI.<br><br>⚡ Fun fact<br><br>I do 108 Surya Namaskars at 4 AM 🌅 before college.<br><br>I believe good design can make even chaotic apps feel peaceful ✨.<br><br>📫 Reach me: LinkedIn
+# Hi, I’m Aadya! ✨  
+💻 Code with Impact <br> 🌱 Constant Learner <br> 🚀 Hackathon Enthusiast  
+
+---
+
+### 🔭 I’m currently working on  
+- **Ma-Eternal** 🤱 — a maternal health web app for awareness & resources. <br>  
+- **Solus** 🌸 — a mental health app (“your calm in the chaos”).  
+
+---
+
+### 👯 I’m looking to collaborate on  
+- Tech projects at the intersection of **health, environment, and social good**. <br>  
+- **Frontend development** (React / Next.js) and **DSA practice in Java**.  
+
+---
+
+### 🤝 I’m looking for help with  
+- Improving **UI/UX accessibility** for health-tech apps. <br>  
+- Scaling prototypes into **full-stack deployable apps**.  
+
+---
+
+### 🌱 I’m currently learning  
+- **Web Development (MERN stack)** <br>  
+- **Data Structures & Algorithms in Java**  
+
+---
+
+### 💬 Ask me about  
+- Hackathons (I’ve built **4 hackathon prototypes** already 🚀). <br>  
+- My workflow for turning a **messy idea into a clean UI**.  
+
+---
+
+### ⚡ Fun fact  
+- I do **108 Surya Namaskars at 4 AM** 🌅 before college. <br>  
+- 🎶 Big BTS fan (*bias?* 👀 → THE Kim Taehyung ofc <3) <br>  
+   *p.s. don’t ask me my favorite song, I’ll rant for 06:13 hours straight… iykyk* <br>  
+- 🎨 Love painting & sketching when I’m not coding. <br>  
+- 🍜 Anime binge-watcher (Hyouka is my top favorite, Gakuen Babysitters is my comfort anime). <br>  
+   *Drop me a new recommendation!*  
+
+---
+
 
 
 ## 🌐 Socials:
