@@ -32,7 +32,7 @@
 - 🎶 Big BTS fan (*bias?* 👀 → THE Kim Taehyung ofc <3)  
    *p.s. don’t ask me my favorite song, I’ll rant for 06:13 hours straight… iykyk* <br>  
 - 🎨 Love painting & sketching when I’m not coding. <br>  
-- 🍜 Anime binge-watcher (Hyouka is my top favorite, Gakuen Babysitters is my comfort anime). <br>  
+- 🍜 Anime binge-watcher (Hyouka is my top favorite, Gakuen Babysitters is my comfort anime). 
    *Drop me a new recommendation!*  
 
 ---
@@ -49,10 +49,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Aadya2901&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadya2901&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aadya2901&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
