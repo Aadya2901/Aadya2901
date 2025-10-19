@@ -3,8 +3,8 @@
 
 
 ### 🔭 I’m currently working on  
-- **Ma-Eternal** 🤱 — a maternal health web app for awareness & resources. <br>  
-- **Solus** 🌸 — a mental health app (“your calm in the chaos”).  
+- **Ma-Eternal** 🌸 — a maternal health web app. <br>  
+- **Solus** 🌸 — a mental health web app.  
 
 
 ### 👥 I’m looking to collaborate on  
@@ -32,7 +32,7 @@
 - 🎶 Big BTS fan (*bias?* 👀 → THE Kim Taehyung ofc <3)  
    *p.s. don’t ask me my favorite song, I’ll rant for 06:13 hours straight… iykyk* <br>  
 - 🎨 Love painting & sketching when I’m not coding. <br>  
-- 🍜 Anime binge-watcher (Hyouka is my top favorite, Gakuen Babysitters is my comfort anime). 
+- 🍜 Anime binge-watcher (Hyouka is my top favorite, Gakuen Babysitters is my comfort anime). <br>
    *Drop me a new recommendation!*  
 
 ---
