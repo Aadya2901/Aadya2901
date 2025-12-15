@@ -1,43 +1,96 @@
 # Hi, I’m Aadya! ✨  
-💻 Code with Impact <br> 🌱 Constant Learner <br> 🚀 Hackathon Enthusiast  
+### 💻 Code with Impact | 🌱 Constant Learner | 🚀 Hackathon Enthusiast
 
-
-### 🔭 I’m currently working on  
-- **Ma-Eternal** 🌸 — a maternal health web app. <br>  
-- **Solus** 🌸 — a mental health web app.  
-
-
-### 👥 I’m looking to collaborate on  
-- Tech projects at the intersection of **health, environment, and social good**. <br>  
-- **Frontend development** (React / Next.js) and **DSA practice in Java**.  
-
-
-### 🤝 I’m looking for help with  
-- Improving **UI/UX accessibility** for health-tech apps. <br>  
-- Scaling prototypes into **full-stack deployable apps**.  
-
-
-### 🌱 I’m currently learning  
-- **Web Development (MERN stack)** <br>  
-- **Data Structures & Algorithms in Java**  
-
-
-### 💬 Ask me about  
-- Hackathons (I’ve built **4 hackathon prototypes** already 🚀). <br>  
-- My workflow for turning a **messy idea into a clean UI**.  
-
-
-### ⚡ Fun fact  
-- I do **108 Surya Namaskars at 4 AM** 🌅 before college. <br>  
-- 🎶 Big BTS fan (*bias?* 👀 → THE Kim Taehyung ofc <3)  
-   *p.s. don’t ask me my favorite song, I’ll rant for 06:13 hours straight… iykyk* <br>  
-- 🎨 Love painting & sketching when I’m not coding. <br>  
-- 🍜 Anime binge-watcher (Hyouka is my top favorite, Gakuen Babysitters is my comfort anime). <br>
-   *Drop me a new recommendation!*  
+I’m a **Computer Science student & frontend-focused developer** who loves building meaningful tech — especially at the intersection of **health, well-being, and social good**.  
+I enjoy turning **messy ideas into clean, accessible user interfaces** and shipping fast prototypes through hackathons and side projects.
 
 ---
 
+## 🔭 Currently Working On
+- 🌸 **Ma-Eternal** — A maternal health & wellness web app  
+- 🌸 **Solus** — A mental health & self-care web app  
 
+---
+
+## 👥 Open to Collaborate On
+- Health-tech, climate-tech, and social-impact projects  
+- Frontend development (**React / Next.js**)  
+- **DSA practice in Java** & problem-solving sessions  
+
+---
+
+## 🤝 Looking For Help With
+- Improving **UI/UX accessibility** for health-tech applications  
+- Scaling frontend prototypes into **full-stack, deployable products**  
+
+---
+
+## 🌱 Currently Learning
+- Web Development (**MERN Stack**)  
+- **Data Structures & Algorithms in Java**  
+
+---
+
+## 💬 Ask Me About
+- Hackathons (I’ve built **4+ hackathon prototypes** 🚀)  
+- My workflow for going from **idea → wireframe → clean UI**  
+
+---
+
+## ⚡ Fun Facts
+- 🌅 I do **108 Surya Namaskars at 4 AM** before college  
+- 🎶 Big **BTS** fan (bias → **Kim Taehyung** 💜)  
+- 🎨 Love painting & sketching when I’m not coding  
+- 🍜 Anime binge-watcher  
+  - Favorites: *Hyouka* (all-time fav), *Gakuen Babysitters* (comfort anime)  
+  - Drop me a new recommendation 👀  
+
+---
+
+## 🌐 Connect With Me
+- 💼 **LinkedIn:** _(add link)_  
+- 📧 **Email:** _(add email)_  
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+C, C++, Java, JavaScript, Python  
+
+**Frontend:**  
+HTML5, CSS3, React, Next.js, Bootstrap, Tailwind, Chart.js, Three.js  
+
+**Backend & Databases:**  
+Node.js, Express.js, MongoDB, MySQL, Oracle  
+
+**Cloud & DevOps:**  
+AWS, Azure, Google Cloud, Firebase, Vercel, Netlify, Alibaba Cloud, Kubernetes  
+
+**Tools & Design:**  
+Figma, Framer, Canva, Adobe Photoshop, Illustrator, Postman, Notion  
+
+**Version Control & Others:**  
+Git, GitHub, GitLab  
+
+---
+
+## 📊 GitHub Stats
+_(You can add GitHub stats cards here later if you want)_  
+
+---
+
+## 📌 Pinned Projects
+- 🌸 **Ma-Eternal** — A comprehensive maternal wellness web platform  
+- 🧠 **Solus** — Mental health & self-care web app  
+- 🚀 **DayPilot** — AI-powered daily planner  
+- 🌌 **StellaVerse** — Creative frontend project  
+
+---
+
+✨ *Always learning. Always building. Always improving.*  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aadya2901) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iam.aadyapatel@gmail.com) 
